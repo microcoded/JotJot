@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">JotJot</string>
+    <string name="recents">新着のJot</string>
+    <string name="reminders">リマインダー</string>
+    <string name="notes">メモ</string>
+    <string name="list">リスト</string>
+    <string name="jots">%1$sつのJot</string>
+    <string name="new_jot">新しいJot</string>
+    <string name="note">メモ</string>
+    <string name="reminder">リマインダー</string>
+    <string name="notecount">%1$sつのメモ</string>
+    <string name="permissions_none" >JotJotはストレージにアクセスする必要がある</string>
+    <string name="add">付ける</string>
+    <string name="done">終わる</string>
+    <string name="title">題名</string>
+    <string name="content">情報</string>
+    <string name="edit">編集する</string>
+    <string name="export">エクスポート</string>
+    <string name="delete">削除</string>
+    <string name="cancel">キャンセル</string>
+    <string name="listcount">%1$sつの物</string>
+    <string name="new_list">新しい物</string>
+    <string name="item">名</string>
+    <string name="remindercount">%1$sつのリマインダー</string>
+    <string name="select_time">時間を選ぶ</string>
+    <string name="alert_text">リマインダーは%1$sのため</string>
+    <string name="notify_at">%1$sで通知します</string>
+    <string name="future_date_please">将来の時刻を選んでください。</string>
+</resources>

@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">JotJot</string>
+    <string name="recents">Recent Jots</string>
+    <string name="reminders">Reminders</string>
+    <string name="notes">Notes</string>
+    <string name="list">List</string>
+    <string name="jots">%1$s Jots</string>
+    <string name="new_jot">New Jot</string>
+    <string name="reminder">Reminder</string>
+    <string name="note">Note</string>
+    <string name="notecount">%1$s Notes</string>
+    <string name="permissions_none">JotJot needs the storage permission</string>
+    <string name="add">Add</string>
+    <string name="done">Done</string>
+    <string name="title">Title</string>
+    <string name="content">Content</string>
+    <string name="edit">Edit</string>
+    <string name="export">Export</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="listcount">%1$s Items</string>
+    <string name="new_list">New Item</string>
+    <string name="item">Item</string>
+    <string name="remindercount">%1$s Reminders</string>
+    <string name="select_time">Set Time</string>
+    <string name="alert_text">Alert time: %1$s</string>
+    <string name="notify_at">Notifying you at %1$s</string>
+    <string name="future_date_please">Please select a date in the future.</string>
+</resources>
